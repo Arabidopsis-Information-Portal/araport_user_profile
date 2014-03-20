@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Araport User Profile feature.
+ */
+
+include_once 'araport_user_profile.features.inc';
